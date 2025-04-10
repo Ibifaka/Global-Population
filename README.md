@@ -1,2 +1,10 @@
 # Global-Population
 Exploring Global Population Estimates &amp; Projections Over a Given Period
+
+According to an article published by the United Nations in 2022, more than three times as many people are living on the planet now compared to the middle of the twentieth century. By mid-November 2022, the number of people in the world reached 8.0 billion, which was up from an estimated 2.5 billion in 1950. That number has increased by 1 billion since 2010 and by 2 billion since 1998. In the next 30 years, the population is expected to increase by a further 2 billion people, from 8 billion currently to 9.7 billion in 2050 and peaking at 10.4 billion in the mid-2080s. This growth has been brought about largely by increasing numbers of people surviving to reproductive age, the gradual increase in human lifespan, increasing urbanization, and  migration. This analysis is focused on exploring global population estimates to uncover insights from the global population data covering an estimated population period of 1960-2022, and a projected population covering 2023-2050. The dataset contains information for various Regions, Countries and their demographic information which includes, death rate, birth rate, Female/Male population changes. The dataset also covers information for both urban and rural areas, life expectancy and income levels.  
+
+The main objective of the study is to explore the estimated and projected population changes across various regions, income groups, gender, rural and urban groups with the use of Power BI to create an interactive dashboard that will display core population growth drivers affecting the global population . The study objectives aims to achieve the following:
+
+Uncover the population distribution and changes based on gender(male or female) across regions and income levels.
+Analyze the changes in the global population in rural and urban areas across different regions and income levels.
+Compare and uncover regions with significant growth in its population.
